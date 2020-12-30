@@ -1,0 +1,11 @@
+[package]
+name = "kiss_dc_wasm_module"
+version = "0.0.9"
+authors = ["FiveDomain <40838497+FiveDomain@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+
+
+[lib]
+crate-type = ["cdylib"]
